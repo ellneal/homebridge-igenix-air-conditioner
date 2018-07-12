@@ -31,5 +31,10 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ellneal/homebridge-igenix-air-conditioner.git"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0"
   }
 }
