@@ -23,5 +23,13 @@
     "tuyapi": "^2.0.3"
   },
   "author": "Ell Neal <elliot@emdentec.com>",
-  "license": "MIT"
+  "bugs": {
+    "url": "https://github.com/ellneal/homebridge-igenix-air-conditioner/issues"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/ellneal/homebridge-igenix-air-conditioner",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellneal/homebridge-igenix-air-conditioner.git"
+  },
 }
