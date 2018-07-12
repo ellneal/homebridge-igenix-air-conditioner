@@ -1,6 +1,6 @@
 {
   "name": "homebridge-igenix-air-conditioner",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Homebridge plugin for Igenix WiFi Air Conditioner (IG9901WIFI)",
   "main": "index.js",
   "scripts": {
